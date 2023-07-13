@@ -1,6 +1,4 @@
-# 精读：*The Art, Science, and Engineering of Fuzzing: A Survey*
-
-> 原文链接：https://ieeexplore.ieee.org/abstract/document/8863940
+# 精读：[*The Art, Science, and Engineering of Fuzzing: A Survey*](https://ieeexplore.ieee.org/abstract/document/8863940)
 
 - Definition 1 (Fuzzing). Fuzzing is the execution of the PUT using input(s) sampled from an input space (the "fuzz input space") that protrudes the expected input space of the PUT.
 - Definition 2 (Fuzz Testing). Fuzz testing is the use of fuzzing to test if a PUT violates a correctness policy.
